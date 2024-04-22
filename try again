@@ -1,0 +1,15 @@
+<!doctype html>
+    <html>
+        <style>h1 {color: aqua};</style>
+        <body>
+            <h1 font-weight: bold;>Frelancer John</h1>
+            <h2 font-style: italic;>Up For Hire</h2>
+            <p>Hello, my name is John and ive recently started learning <br>
+            how to code and build websites. I am interested in Frelance work</p>
+            <p>Since I was young I always wanted to develop my own buisness, <br>
+            my own "thing" if you will,</p>
+            <p>The first thing I did was create an LLC, which gave me the ability <br>
+            to legally do buisness</p>
+           <p>Little did I know that was not what I needed</p> 
+        </body>
+    </html>
